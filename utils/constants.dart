@@ -7,7 +7,7 @@ class AppConstants {
 
   /// Google Gemini AI API Key
   /// Get free key at: https://aistudio.google.com/app/apikey
-  static const String geminiApiKey = 'AIzaSyCw5ZIpJHe_4Yb8qbeweSE2EMWkTafNn3s';
+  static const String geminiApiKey = 'api';
   //                                   ↑ PASTE YOUR KEY HERE
 
   /// Google AdMob IDs
